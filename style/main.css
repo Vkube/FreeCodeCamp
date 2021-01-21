@@ -39,7 +39,7 @@ section article {
   font-size: 0.96em;
 }
 
-section li {
+ li {
   margin: 15px 0px 0px 20px;
 }
 #code-style{
@@ -55,6 +55,7 @@ section li {
   margin: 10px;
   border-radius: 5px;
   color:#4d4e53 !important;
+  width: max-content;
 }
 .button {
   display: block;
