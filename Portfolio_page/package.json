@@ -1,0 +1,27 @@
+{
+  "name": "portfolio_page",
+  "version": "1.0.0",
+  "description": "freecodecamp responsive Web Design Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "text npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkube/FreeCodeCamp.git"
+  },
+  "author": "S.Drozdov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vkube/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/Vkube/FreeCodeCamp#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "node-sass": "^6.0.0",
+    "prettier": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  }
+}
