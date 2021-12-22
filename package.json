@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "Some project from freecodecamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkube/FreeCodeCamp.git"
+  },
+  "author": "S.Drozdov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vkube/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/Vkube/FreeCodeCamp#readme"
+}
